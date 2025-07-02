@@ -149,7 +149,7 @@ export default function ContactPage() {
 									<Mail className="h-5 w-5 text-purple-600 dark:text-purple-400" />
 									<div>
 										<p className="font-medium">Email</p>
-										<p className="text-sm text-muted-foreground">hello@elmertech.com</p>
+										<p className="text-sm text-muted-foreground">info@elmertech.dev</p>
 									</div>
 								</div>
 
